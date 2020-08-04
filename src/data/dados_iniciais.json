@@ -1,0 +1,563 @@
+{
+  "categorias": [
+    {
+      "titulo": "MÚSICA",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+
+      "videos": [
+        {
+          "titulo": "FIZ A MINHA FAMÍLIA ACHAR QUE EU TAVA FICANDO RICO - STAND UP",
+          "url": "https://www.youtube.com/watch?v=PMXRaK3UOdY"
+        },
+
+        {
+          "titulo": "Stromae - Racine Carrée (Live Full Concert)",
+          "url": "https://www.youtube.com/watch?v=eOZLDQm9c2E&t=1517s"
+        },
+
+        {
+          "titulo": "Good Charlotte - I Just Wanna Live",
+          "url": "https://www.youtube.com/watch?v=rISYCquFeI8"
+        },
+
+        {
+          "titulo": "Disclosure - Help Me Lose My Mind (Mazde Remix)",
+          "url": "https://www.youtube.com/watch?v=3jTjBt0Enyw"
+        },
+        
+        {
+          "titulo": "Edi Rock - That's My Way ft. Seu Jorge [Video Oficial]",
+          "url": "https://www.youtube.com/watch?v=ysfm_adxRrI"
+        },
+
+        {
+          "titulo": "Shakira - Poem to a Horse (from Live & Off the Record)",
+          "url": "https://www.youtube.com/watch?v=lYNqqDuwKV0"
+        },
+
+        {
+          "titulo": "Gog - O Amor Venceu a Guerra (Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=6v0oXz499xg"
+        },
+
+        {
+          "titulo": "Stromae - Formidable (ceci n'est pas une leçon)",
+          "url": "https://www.youtube.com/watch?v=S_xH7noaqTA"
+        },
+
+        {
+          "titulo": "Zaz - Les passants (Em Montmartre)",
+          "url": "https://www.youtube.com/watch?v=D6ZZC8DAjkM"
+        },
+
+        {
+          "titulo": "Zaz - On Ira",
+          "url": "https://www.youtube.com/watch?v=8IjWHBGzsu4"
+        },   
+        
+        {
+          "titulo": "Renato Vianna - João de Barro",
+          "url": "https://www.youtube.com/watch?v=Z2VTuAfRvFY"
+        },
+
+        
+        {
+          "titulo": "Somewhere I Belong (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=zsCD5XCu6CM"
+        },        
+        {
+          "titulo": "Macklemore and Ryan Lewis - Wings",
+          "url": "https://www.youtube.com/watch?v=70jelrCouqM"
+        },        
+        {
+          "titulo": "Slipknot - Vermilion Pt. 2 [OFFICIAL VIDEO]",
+          "url": "https://www.youtube.com/watch?v=LvetJ9U_tVY"
+        },        
+                
+                
+        {
+          "titulo": "Najwa Nimri - Crime",
+          "url": "https://www.youtube.com/watch?v=V2NU8H2UP8E"
+        },        
+        {
+          "titulo": "Foster The People - Pumped Up Kicks - Live ",
+          "url": "https://www.youtube.com/watch?v=0l4zQF4f5As"
+        },        
+        {
+          "titulo": "Fall Out Boy - Save Rock And Roll (Part 11 of 11) ft. Elton John",
+          "url": "https://www.youtube.com/watch?v=9cnBxSB1jUE"
+        },        
+        {
+          "titulo": "Live - Lightning Crashes",
+          "url": "https://www.youtube.com/watch?v=xsJ4O-nSveg"
+        },        
+        {
+          "titulo": "Audioslave - I Am The Highway Live",
+          "url": "https://www.youtube.com/watch?v=725iONdAu9Q"
+        },        
+        {
+          "titulo": "Elvis Presley - Suspicious Minds Live in Las Vegas",
+          "url": "https://www.youtube.com/watch?v=Y_RCvsiavuM"
+        },        
+        {
+          "titulo": "Queen - Full Concert Live Aid 1985",
+          "url": "https://www.youtube.com/watch?v=ngf1KF2_kPI"
+        },        
+        {
+          "titulo": "Matisyahu - Sunshine",
+          "url": "https://www.youtube.com/watch?v=E_Vt4MlbM0c"
+        },        
+        {
+          "titulo": "Joe Cocker - With a liitle help from my friend",
+          "url": "https://www.youtube.com/watch?v=NR-H2uFCQls"
+        } ,        
+        {
+          "titulo": "Stand By Me | Playing For Change | Song Around The World",
+          "url": "https://www.youtube.com/watch?v=Us-TVg40ExM"
+        }        
+      
+      ]
+    },
+
+
+    {
+      "titulo": "FILMES",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Parasita - Trailer",
+          "url": "https://www.youtube.com/watch?v=xWEf44OcU1w"
+        },
+        
+        {
+          "titulo": "Parasita - Trailer",
+          "url": "https://www.youtube.com/watch?v=xWEf44OcU1w"
+        },
+        
+        {
+          "titulo": "Na Natureza Selvagem - Trailer",
+          "url": "https://www.youtube.com/watch?v=4u07rpXrTz8"
+        },
+
+        {
+          "titulo": "Snowpiercer Official Trailer",
+          "url": "https://www.youtube.com/watch?v=vcGdmh0_toY"
+        },
+
+        {
+          "titulo": "Chocolat - Trailer",
+          "url": "https://www.youtube.com/watch?v=IPkVphWN-0s"
+        },
+
+        {
+          "titulo": "1917 - Trailer",
+          "url": "https://www.youtube.com/watch?v=k9DAPQE05Qg"
+        },
+        {
+          "titulo": "O Farol - Trailer",
+          "url": "https://www.youtube.com/watch?v=w_INdfOkg4M"
+        },
+
+        {
+          "titulo": "Jojo Rabbit - Trailer",
+          "url": "https://www.youtube.com/watch?v=ilhXnp-nVbY"
+        },
+
+        {
+          "titulo": "Intocáveis - Trailer",
+          "url": "https://www.youtube.com/watch?v=kR3ZQi6rCiY"
+        },
+
+        {
+          "titulo": "Sweeney Todd: O Barbeiro Demoníaco da Rua Fleet - Trailer",
+          "url": "https://www.youtube.com/watch?v=Ban1_ptuapA"
+        },
+
+        {
+          "titulo": "Kodachrome - Trailer",
+          "url": "https://www.youtube.com/watch?v=g3IvVejktJE"
+        },
+
+        {
+          "titulo": "Hamilton - Trailer",
+          "url": "https://www.youtube.com/watch?v=DSCKfXpAGHc"
+        },
+
+        {
+          "titulo": "O Hospedeiro - Trailer",
+          "url": "https://www.youtube.com/watch?v=HzqQVsgQu9g"
+        },
+
+        {
+          "titulo": "Uma Família De Dois - Trailer",
+          "url": "https://www.youtube.com/watch?v=Fq1Y0aM6xmY"
+        },
+
+        {
+          "titulo": "Eu Não Sou Um Homem Fácil - Trailer",
+          "url": "https://www.youtube.com/watch?v=DMVJ8_VnIgo"
+        },
+
+        {
+          "titulo": "O Doutor Da Felicidade - Trailer",
+          "url": "https://www.youtube.com/watch?v=FjvCfGImBHQ"
+        },
+
+        {
+          "titulo": "Jornada da Vida | Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=m9sT98UCCR4"
+        },
+
+        {
+          "titulo": "Okja - Trailer",
+          "url": "https://www.youtube.com/watch?v=u1DSIVC5npc"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "HUMOR",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O BRASIL SEGUNDO OS ALEMÃES - Stand-up | Lea Maria",
+          "url": "https://www.youtube.com/watch?v=79DbMPoSYjY&t=197s"
+        },
+        {
+          "titulo": "Auto Pobre - Belina do Caça-Fantasmas com sirene",
+          "url": "https://www.youtube.com/watch?v=SCRIzhW0Drw"
+        },
+        {
+          "titulo": "O DESABAFO DE UM PALHAÇO",
+          "url": "https://www.youtube.com/watch?v=mDrZiMfjiVk"
+        },
+        {
+          "titulo": "NÃO PODE RIR! - com COMEDIANTES (Léo Lins, Fábio Rabin, Gigante Leo e Estevam Nabote)          ",
+          "url": "https://www.youtube.com/watch?v=1O08en_j_u4"
+        },
+        {
+          "titulo": "Eurotrip Parte mais engraçada do filme",
+          "url": "https://www.youtube.com/watch?v=qosCKGID8CQ"
+        },
+        {
+          "titulo": "Agradeça ao porco",
+          "url": "https://www.youtube.com/watch?v=bai0prHI2JU"
+        },
+        {
+          "titulo": "Ganso",
+          "url": "https://www.youtube.com/watch?v=UgWB1iFmQyU"
+        },
+        {
+          "titulo": "Tem um Bicho na Sua Roupa | Eu, Eu Mesmo & Irene (2000) Dublado HD",
+          "url": "https://www.youtube.com/watch?v=OUsHRchbO2M"
+        },
+        
+        {
+          "titulo": "NÃO PODE RIR! TODOS contra PAULINHO GOGÓ!",
+          "url": "https://www.youtube.com/watch?v=IJe3P0xYVzE"
+        },
+        {
+          "titulo": "NÃO PODE RIR! com PORTA DOS FUNDOS (Rafael Portugal, Evelyn Castro, Gustavo Chagas e Magalzão)",
+          "url": "https://www.youtube.com/watch?v=JS4PUWVGPaw"
+        },
+        {
+          "titulo": "MARCELO ADNET, FAZ IMITAÇÃO PERFEITA DO NARRADOR DO SPORTV, LUIS CARLOS JR",
+          "url": "https://www.youtube.com/watch?v=BJqka4NxQhg"
+        },
+        {
+          "titulo": "Rafael Portugal Stand-Up",
+          "url": "https://www.youtube.com/watch?v=9766jDJRWfs"
+        },
+        {
+          "titulo": "Cavalo",
+          "url": "https://www.youtube.com/watch?v=sLxbxWdmIXM"
+        },
+        {
+          "titulo": "Tiririca - Ora, menino! (COMPLETA!)",
+          "url": "https://youtu.be/jxCRFRPSUBQ"
+        },
+        {
+          "titulo": "Tirulipa conta história do leilão do Neymar",
+          "url": "https://www.youtube.com/watch?v=LnBdsYTdI9g"
+        }
+      ]
+    },
+    {
+      "titulo": "INGLÊS",
+      "cor": "#e67e22",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Exact Instructions Challenge Drawing Edition | Josh Darnit",
+          "url": "https://www.youtube.com/watch?v=cDA3_5982h8"
+        },
+        {
+          "titulo": "The Daily Show - Admiral General Aladeen",
+          "url": "https://www.youtube.com/watch?v=yEPSJF7BYOo"
+        },
+        {
+          "titulo": "Comedy Actors Roundtable: Sacha Baron Cohen, Jim Carrey, Don Cheadle & More",
+          "url": "https://www.youtube.com/watch?v=yz0bjLk9rUo&t=620s"
+        },
+        {
+          "titulo": "Sacha Baron Cohen Relives Times He Went Too Far | The Jonathan Ross Show",
+          "url": "https://www.youtube.com/watch?v=idMn_1gcVFs"
+        },
+        {
+          "titulo": "MOMENTS IF IT WERE NOT FILMED, NO ONE WOULD BELIEVE!",
+          "url": "https://youtu.be/xbCRMPlVjYY"
+        },
+        {
+          "titulo": "Como eu aprendi Inglês? E entendendo padrões!",
+          "url": "https://www.youtube.com/watch?v=OkboNGQ9LU0"
+        }
+      ]
+    },
+
+    {
+      "titulo": "SÉRIES",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Sex Education - Trailer",
+          "url": "https://www.youtube.com/watch?v=46DLtYfJ6WI"
+        },
+        {
+          "titulo": "Sex Education - Trailer",
+          "url": "https://www.youtube.com/watch?v=46DLtYfJ6WI"
+        },
+        {
+          "titulo": "Eu nunca... - Trailer",
+          "url": "https://www.youtube.com/watch?v=6HEIdbzG9Rs"
+        },
+        {
+          "titulo": "Vis a Vis | Trailer",
+          "url": "https://www.youtube.com/watch?v=N08KRAPzsHU"
+        },
+        {
+          "titulo": "The Politician - Trailer",
+          "url": "https://www.youtube.com/watch?v=mA07C_9lINk"
+        },
+        {
+          "titulo": "Le Chalet - Trailer",
+          "url": "https://www.youtube.com/watch?v=7-lEZVRYulQ"
+        },
+        {
+          "titulo": "Anos Incríveis - Abertura",
+          "url": "https://www.youtube.com/watch?v=aMpGzBEkpKk"
+        },
+        {
+          "titulo": "Chernobyl - Trailer",
+          "url": "https://www.youtube.com/watch?v=74D6dZ8-uRw"
+        },
+        {
+          "titulo": "Fleabag - Trailer Oficial Español ",
+          "url": "https://www.youtube.com/watch?v=L3iqdpYoZNU"
+        },
+        {
+          "titulo": "The Mandalorian | Official Trailer",
+          "url": "https://www.youtube.com/watch?v=aOC8E8z_ifw"
+        },
+        {
+          "titulo": "This Is Us - 1ª Temporada Trailer Oficial",
+          "url": "https://www.youtube.com/watch?v=rR6-fctDmB0"
+        },
+        {
+          "titulo": "Young Sheldon - Trailer",
+          "url": "https://www.youtube.com/watch?v=e9lAWW-CQUE"
+        },
+        {
+          "titulo": "O Bosque - Trailer",
+          "url": "https://www.youtube.com/watch?v=gREQKDdYdWk"
+        },
+        {
+          "titulo": "La Casa de Papel - Parte 1 - Trailer Dublado",
+          "url": "https://www.youtube.com/watch?v=yKXYXgo7a3I"
+        }
+      ]
+    },
+
+    {
+      "titulo": "AUDIOVISUAL",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "LIMBO - Ganhador Melhor Curta da América Latina e Voto Popular Andre Pilli",
+          "url": "https://www.youtube.com/watch?v=Cq7B0yenXvQ"
+        },
+        {
+          "titulo": "EVEREST BASE CAMP • uma viagem pra dentro de si",
+          "url": "https://www.youtube.com/watch?v=VoKSms7JoyQ"
+        },
+        {
+          "titulo": "MONTANHAS SÃO DEUSES - Everest Base Camp Trek - 4K",
+          "url": "https://www.youtube.com/watch?v=oRR5vBwV-Hc"
+        },
+        {
+          "titulo": "Mario Kart in Real Life - Luigi Death Stare!",
+          "url": "https://www.youtube.com/watch?v=9QRXtA4I8aQ"
+        },
+        {
+          "titulo": "Mario Kart 8 Deluxe Love Song in Real Life!",
+          "url": "https://www.youtube.com/watch?v=Tsj-ffamyGQ"
+        },
+        {
+          "titulo": "SUMMER DREAM - GOPRO & DJI TRAVEL THE WORLD MONTAGE",
+          "url": "https://www.youtube.com/watch?v=J64DHlrAga8"
+        },
+        {
+          "titulo": "The best of Japan - Lorran Saito",
+          "url": "https://www.youtube.com/watch?v=-4TCyJetV3Q&t=226s"
+        }
+      ]
+    },
+
+    {
+      "titulo": "FANCÊS",
+      "cor": "salmon",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+
+        {
+          "titulo": "Je me fais passer pour des stars de l'horreur chez McDo | DENYZEE",
+          "url": "https://www.youtube.com/watch?v=eh9JSE9-DBQ"
+        },
+        {
+          "titulo": "MON ENFANCE DU VILLAGE EN IMAGE ! (vlog Afrique #10)",
+          "url": "https://www.youtube.com/watch?v=Dcs0JHBAol0"
+        },
+        {
+          "titulo": "LE QUÉBEC EN AUTOMNE",
+          "url": "https://www.youtube.com/watch?v=aX-J-nhLgsg"
+        },
+        {
+          "titulo": "10 CHOSES QUE VOUS NE SAVIEZ PAS SUR PARIS",
+          "url": "https://www.youtube.com/watch?v=z1xrw47exlY"
+        },
+        {
+          "titulo": "QUE VISITER À PARIS | MES 10 SPOTS INSOLITES PRÉFÉRÉS",
+          "url": "https://www.youtube.com/watch?v=k_1Ev_9mgB0&t=355s"
+        },
+        {
+          "titulo": "Extra French episode 1 with french subtitles",
+          "url": "https://www.youtube.com/watch?v=EaNqp4FXh-s"
+        },
+        {
+          "titulo": "TU RIS, TU PERDS ! CHALLENGE feat. Mbappé, Rabiot, Areola, Nkunku",
+          "url": "https://www.youtube.com/watch?v=gbH-A_YtyQM"
+        },
+        {
+          "titulo": "ROUND 2: TU RIS, TU PERDS, T'ES MOUILLÉ!!",
+          "url": "https://www.youtube.com/watch?v=hWlI4CSzoC4"
+        },
+        {
+          "titulo": "ROUND 3 : TU RIS, TU PERDS, ON T'DEFONCE ! Filles vs Garçons MMA ! ( version longue )",
+          "url": "https://www.youtube.com/watch?v=XQLl-3IQb00&t=83s"
+        },
+        {
+          "titulo": "ROUND 9 : TU RIS, TU PERDS, ON T'EPILE !",
+          "url": "https://www.youtube.com/watch?v=3QRp9-Pu108"
+        }
+      ]
+    },
+    
+    {
+      "titulo": "DEV",
+      "cor": "sienna",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Dicas para programadores iniciantes #002 - Automotivação",
+          "url": "https://www.youtube.com/watch?v=BlE9ex_Abxo"
+        },
+        {
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo&t=137s"
+        },
+        
+        {
+          "titulo": "CS50 2019 - Lecture 0 - Computational Thinking, Scratch",
+          "url": "https://www.youtube.com/watch?v=jjqgP9dpD1k"
+        },
+        {
+          "titulo": "Usando Git Direito | Limpando seus Commits!",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+          "titulo": "Dicas para programadores iniciantes #001 - Foco",
+          "url": "https://www.youtube.com/watch?v=5igC-TY7Jk4"
+        }
+      ]
+    },
+    
+    {
+      "titulo": "MIX",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+
+        {
+          "titulo": "The Evolution of Dance - 1950 to 2019 - By Ricardo Walker's Crew",
+          "url": "https://www.youtube.com/watch?v=p-rSdt0aFuw"
+        },
+        {
+          "titulo": "Winning Eleven 2002 - Intro (Queen-We Will Rock You)",
+          "url": "https://www.youtube.com/watch?v=wtktxKLvo68&list=WL&index=9&t=0s"
+        }
+      ]
+    }
+  ]
+}
