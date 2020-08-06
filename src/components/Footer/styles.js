@@ -10,6 +10,7 @@ export const FooterBase = styled.footer`
   padding-bottom: 32px;
   color: var(--white);
   text-align: center;
+  border-top: 2px solid var(--primary);
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
