@@ -1,5 +1,5 @@
 .Logo {
-    max-width: 168px;
+    max-width: 90px;
   }
   @media (max-width: 800px) {
     .Logo {
@@ -9,7 +9,7 @@
   
   .Menu {
     width: 100%;
-    height: 94px;
+    height: 50px;
     z-index: 100;
   
     display: flex;
@@ -23,11 +23,11 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    background-color: black;
+    /* border-bottom: 2px solid var(--primary); */
   }
   body {
-    --bodyPaddingTop: 73px;
+    --bodyPaddingTop: 25px;
     padding-top: var(--bodyPaddingTop);
   }
   @media (max-width: 800px) {
@@ -46,10 +46,10 @@
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
-    padding: 16px 24px;
+    padding: 8px 10px;
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 13px;
     outline: none;
     border-radius: 5px;
     text-decoration: none;
