@@ -4,7 +4,8 @@ import styled from 'styled-components';
 export const FooterBase = styled.footer`
   
   background: #141414;
-  padding: 0px;
+  height: 227px;
+  padding: 57px;
   color: var(--primary);
   text-align: center;
   /* border-top: 2px solid var(--primary); */
